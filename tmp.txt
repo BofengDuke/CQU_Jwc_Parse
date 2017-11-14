@@ -1,0 +1,6 @@
+
+# temp url
+url = 'http://jxgl.cqu.edu.cn/WSXK/DKCREFFBOOK.aspx'
+url4 = 'http://jxgl.cqu.edu.cn/DKCREFFBOOK_rpt.aspx'
+url2 = 'http://jxgl.cqu.edu.cn/WSXK/dkcreffbook_rpt.aspx'
+url3 ='http://jxgl.cqu.edu.cn/znpk/Pri_StuSel_rpt.aspx'
