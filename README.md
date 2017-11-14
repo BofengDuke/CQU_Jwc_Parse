@@ -8,3 +8,6 @@ CQU教务处网站解析
 requests
 lxml
 pymongo
+
+
+注: tmp.txt 是一些临时的链接
